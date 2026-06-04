@@ -8,7 +8,7 @@
 
 Reusable Python utilities for ETL logging, data quality validation, SQL review, PySpark schema validation, and Airflow ETL orchestration templates.
 
-This repository demonstrates modular engineering utilities commonly used in modern Data Engineering and Cloud Analytics workflows.
+This repository demonstrates modular engineering utilities commonly used in modern Data Engineering and Cloud Analytics workflows
 
 ---
 
